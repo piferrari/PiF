@@ -14,5 +14,6 @@ C:>PiF.exe C:\Path\To\lsass.minidump.file
 Pré-requis
 ==========
 Pour fonctionner le programme a besoin de fichier supplémentaire:
- - WDK disponible sur MSDN. La version utilisé pour le développement était la version WDK 8
- - 
+ - DIA-SDK
+ - Dbghelp
+
